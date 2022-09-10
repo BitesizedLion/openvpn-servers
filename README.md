@@ -1,4 +1,5 @@
 # OpenVPN Servers
+[MIT](https://github.com/BitesizedLion/openvpn-servers/blob/main/LICENSE)
 
 This is a repository full of OpenVPN client configurations, most, if not all, are untested
 ## FAQ
@@ -14,9 +15,6 @@ A: No, I add new ones whenever I can be bothered to.
 #### Q: Can I make Pull Requests to add new configs?
 
 A: Sure, but it's not likely I'll merge it.
-## License
-
-[MIT](https://github.com/BitesizedLion/openvpn-servers/blob/main/LICENSE)
 ## Server Statuses
 
 | File                        	|   Status   	|
