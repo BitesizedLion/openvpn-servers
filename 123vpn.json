@@ -1,0 +1,80 @@
+{
+    "errorcode": "0",
+    "fullads": "2",
+    "password": "KgdYRLYrbsDrz87hR7e2Vzq",
+    "servers": [
+        {
+            "Germany": [
+                "54.37.204.82",
+                "0",
+                "0.00",
+                "Germany",
+                "de"
+            ]
+        },
+        {
+            "Germany 2": [
+                "51.68.173.207",
+                "0",
+                "0.00",
+                "Germany",
+                "de"
+            ]
+        },
+        {
+            "Poland": [
+                "146.59.18.244",
+                "0",
+                "0.00",
+                "Poland",
+                "pl"
+            ]
+        },
+        {
+            "France": [
+                "151.80.119.173",
+                "0",
+                "0.00",
+                "France",
+                "fr"
+            ]
+        },
+        {
+            "France 2": [
+                "54.36.100.188",
+                "0",
+                "0.00",
+                "France",
+                "fr"
+            ]
+        },
+        {
+            "Singapore": [
+                "51.79.240.160",
+                "0",
+                "0.00",
+                "Singapore",
+                "sg"
+            ]
+        },
+        {
+            "India": [
+                "167.71.238.239",
+                "0",
+                "0.00",
+                "India",
+                "in"
+            ]
+        },
+        {
+            "Netherlands": [
+                "134.209.92.44",
+                "0",
+                "0.00",
+                "Netherlands",
+                "nl"
+            ]
+        }
+    ],
+    "username": "xeW2m4uJxcWjV45QYx@P8fww2V36FBVerRt.com"
+}
