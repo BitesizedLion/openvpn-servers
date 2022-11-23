@@ -15,6 +15,12 @@ A: No, I add new ones whenever I can be bothered to.
 #### Q: Can I make Pull Requests to add new configs?
 
 A: Sure, but it's not likely I'll merge it.
+
+
+#### Q: Some VPN files don't have any IPs in them
+
+A: Yes, these may be the "BBVPN" configs, you can find the IPs in the bbvpn.json file.
+
 ## Server Statuses
 
 | File                        	|   Status   	|
